@@ -1,0 +1,40 @@
+/Main-Auth-begin        b061bb69dca57e5c39d21e620befc91d
+ok                      e99fc49e1fb45c67780f112c7943a804
+notok                   d21e620befc91d5c39d249e1fb4a804s
+
+3d2a63161ef5417648cddf9a879efc00    main-auth-cookie-name
+
+
+Robots-data     Im5hbWUiOiJGbGFnIiwiVmFsdWUiOiJjZTBlZTMyN2NiZDY2YjY1OTUyNmYyYjg3Njc0ODYyNSIsIm1lc3NhZ2UiOiJEb24ndCBnbyBoZXJlIGFuZCB0aGVyZSBnbyBiYWNrIHdoZXJlIHlvdSB3ZXJlIg==
+
+url/robots.txt      b061bb69dca57e785424524587
+url/level1          dca57e78542b069452458761bb
+
+flag1       ce0ee327cbd66b659526f2b876748625
+
+GET / POST  /level2         544sa5f425sd4f78sd4fs4df5424sd
+
+QR - level2 sasfsafsdf78787454
+L2Snowden-verify POST   /544sa5f425sd4f7
+
+POST L2 code vry    544sa5f425sd4f78sd4fs4df
+
+POST L3         544sa5f425sd4f78sdlevel3
+POST L3 verify  544sa5f425sd4f78sdlevel33
+POST L3 flag    jdhbkasbdahbdhasbjdlevel3
+
+POST L4   login     qlsdsdfsdfqlsdfsdfql
+
+
+sqlloginsuccess         jasndkashdashbdjashbdasgdghasvdhgasvdgasvd78342587346578435
+
+root profile /post      544sa5f42444444prf
+
+flag3       ksjdfusebfgtryuhdsfrohuhj
+	    
+
+POST level 5 dice       ledfvelsdf5asddceid
+
+flag4       54DFG65T5G45DG46D5G48ER4G8D48F4G6D5G654
+
+pdf passwd      1337@2377@R00T@127001@123
